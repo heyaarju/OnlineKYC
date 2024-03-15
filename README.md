@@ -4,9 +4,15 @@
 
  Demo Video:
 
-https://github.com/heyaarju/OnlineKYC/assets/36573955/3d163824-6ba9-47f2-a68b-ee7cbb5a42cb
+
+
+https://github.com/heyaarju/OnlineKYC/assets/36573955/23ab5b8d-b16b-4baf-b6ad-118aadace353
+
+
 
  (or) Download from above Files.
+
+
 
 
 
